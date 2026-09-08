@@ -70,3 +70,4 @@ transaction1.show_details()
 transaction2.show_details()
 
 print("Transaction program completed")
+print("Thank you")
